@@ -20,4 +20,4 @@ class FoldAndSum
 
         Console.WriteLine(string.Join(" ", nums.Skip(k).Take(2 * k)));
     }
-}
+} 
